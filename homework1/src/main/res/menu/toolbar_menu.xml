@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/createButton"
+        android:title="Создать кнопку"
+        app:showAsAction="never">
+    </item>
+    <item
+        android:id="@+id/createText"
+        android:title="Создать поле для ввода текста"
+        app:showAsAction="never">
+    </item>
+    <item
+        android:id="@+id/clear"
+        android:title="Очистить"
+        app:showAsAction="never">
+    </item>
+</menu>
